@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-Here is a detailed summary of what we have done so far to build your CRM application:
+Here is a detailed summary of what we have done so far to build a CRM application:
 
 ### 1. **Setting Up the Backend Environment**
    - **Initialized Project**: You started by setting up a Node.js project for your CRM system, with the necessary backend setup.
@@ -54,7 +54,6 @@ Here is a detailed summary of what we have done so far to build your CRM applica
 - **Authentication**: Consider adding user authentication and authorization for secure access to the application.
 - **Deployment**: If everything works fine locally, you can then consider deploying the application on a server for production use.
 
-Let me know if you'd like to proceed with any of these next steps!
 =======
 # Textile-CRM
 >>>>>>> 0a621102c90eb3529016ff3162d2c131b5f7566d
