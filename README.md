@@ -54,7 +54,6 @@ Here is a detailed summary of what we have done so far to build a CRM applicatio
 - **Authentication**: Consider adding user authentication and authorization for secure access to the application.
 - **Deployment**: If everything works fine locally, you can then consider deploying the application on a server for production use.
 
-Let me know if you'd like to proceed with any of these next steps!
 =======
 # Textile-CRM
 >>>>>>> 0a621102c90eb3529016ff3162d2c131b5f7566d
