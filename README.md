@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Here is a detailed summary of what we have done so far to build your CRM application:
 
 ### 1. **Setting Up the Backend Environment**
@@ -54,3 +55,6 @@ Here is a detailed summary of what we have done so far to build your CRM applica
 - **Deployment**: If everything works fine locally, you can then consider deploying the application on a server for production use.
 
 Let me know if you'd like to proceed with any of these next steps!
+=======
+# Textile-CRM
+>>>>>>> 0a621102c90eb3529016ff3162d2c131b5f7566d
